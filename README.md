@@ -3,7 +3,7 @@
 ## 1st Eilmer Workshop
 10 July 2024 at The University of Queensland, St Lucia, Australia
 
-[Program](ew-01/program.md)
+[Program](01-ew-2024-07-10/program.md)
 
 
 
