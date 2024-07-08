@@ -29,7 +29,8 @@ Location: 46-441 (Andrew Liveris Building, rm 441)
 | 1123 -- 1130   | *Caiyu (Carrie) Xie*, State-specific modelling |
 | 1130 -- 1137   | *Yu (Daisy) Liu*, TBA |
 | 1137 -- 1145   | *Alex Muirhead*,   |
-| 1145 -- 1152   | *Amir Mittelman*, |
+| 1145 -- 1152   | *Roshan Kurian*, Plasma-fuelled air breathers |
+| 1153 -- 1200   | *Amir Mittelman*, |
 
 
 
