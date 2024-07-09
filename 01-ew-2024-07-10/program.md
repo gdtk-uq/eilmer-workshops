@@ -30,7 +30,6 @@ Location: 46-441 (Andrew Liveris Building, rm 441)
 | 1130 -- 1137   | *Yu (Daisy) Liu*, TBA |
 | 1138 -- 1145   | *Roshan Kurian*, Plasma-fuelled air breathers |
 | 1145 -- 1152   | *Aaron Cunningham*, MHD at high-speeds  |
-| 1153 -- 1200   | *Peter Jacobs*, wildcard |
 
 
 
