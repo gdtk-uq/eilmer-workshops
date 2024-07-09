@@ -28,9 +28,9 @@ Location: 46-441 (Andrew Liveris Building, rm 441)
 | 1115 -- 1122   | *Matt Uren*, Viscous finite-rate giant planet entry simulations |
 | 1123 -- 1130   | *Caiyu (Carrie) Xie*, State-specific modelling |
 | 1130 -- 1137   | *Yu (Daisy) Liu*, TBA |
-| 1137 -- 1145   | *Alex Muirhead*,   |
-| 1145 -- 1152   | *Roshan Kurian*, Plasma-fuelled air breathers |
-| 1153 -- 1200   | *Amir Mittelman*, |
+| 1138 -- 1145   | *Roshan Kurian*, Plasma-fuelled air breathers |
+| 1145 -- 1152   | *Aaron Cunningham*, MHD at high-speeds  |
+| 1153 -- 1200   | *Peter Jacobs*, wildcard |
 
 
 
